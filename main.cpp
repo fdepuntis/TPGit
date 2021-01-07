@@ -8,7 +8,9 @@
  * File:   main.cpp
  * Author: snir2g1
  *
+
  * Created on 5 janvier 2021, 17:14
+
  */
 
 #include <cstdlib>
@@ -19,6 +21,14 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
+
+    cout<<"Bonjour"<<endl;
+    cout<<"patate"<<endl;
+    cout<<"Salut Depuntis"<<endl;
+    cout<<"123"<<endl;
+    cout<<"texte de flo"<<endl;     
+
+
     cout<<"Bonjour"<<endl; 
     cout<<"Second texte"<<endl; 
     cout<<"Troisième texte"<<endl; 
@@ -26,6 +36,7 @@ int main(int argc, char** argv) {
    cout<<"5 texte"<<endl;
    cout<<"potager"<<endl;
    cout<<"ajout commentaire pour florien"<<endl;
+
     return 0;
 }
 
