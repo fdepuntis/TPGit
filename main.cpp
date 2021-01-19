@@ -36,6 +36,7 @@ int main(int argc, char** argv) {
    cout<<"5 texte"<<endl;
    cout<<"potager"<<endl;
    cout<<"ajout commentaire pour florien"<<endl;
+   cout<<"Tu fait Quoi ?"<<endl;
 
     return 0;
 }
