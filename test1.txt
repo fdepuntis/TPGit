@@ -1,2 +1,6 @@
 suppression d'une ligne et ajout d'une seconde. 
+<<<<<<< HEAD
 Ajout d'un texte
+=======
+modification
+>>>>>>> test
