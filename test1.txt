@@ -1,1 +1,2 @@
 suppression d'une ligne et ajout d'une seconde. 
+Ajout d'un texte
