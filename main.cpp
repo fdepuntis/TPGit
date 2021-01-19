@@ -38,6 +38,7 @@ int main(int argc, char** argv) {
    cout<<"ajout commentaire pour florien"<<endl;
    cout<<"Tu fait Quoi ?"<<endl;
    cout<<"je fais la vaiselle"<<endl;
+   cout<<"OK"<<endl;
     return 0;
 }
 
